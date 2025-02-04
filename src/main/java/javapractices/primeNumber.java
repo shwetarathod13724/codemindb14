@@ -24,9 +24,9 @@ public class primeNumber {
 			}
 		}
 		if(prime)
-		System.out.println("number is prime");
+		System.out.println("given number is prime");
 		else
-			System.out.println("number is not prime");
+			System.out.println("given number is not prime");
 		// TODO Auto-generated method stub
 
 	}
